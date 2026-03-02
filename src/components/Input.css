@@ -1,0 +1,13 @@
+input {
+  margin: 20px;
+  font-size: 1.25rem;
+  text-align: center;
+  border: solid 1px #1c1c1c;
+  border-radius: 2px;
+  padding: 10px;
+}
+
+label {
+  margin: 20px;
+  font-size: 1.25rem;
+}

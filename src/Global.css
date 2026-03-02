@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+body {
+  background-color: #add8e6;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+.container-comandos {
+  display: flex;
+  align-items: center;
+}
+
+.container-resultados {
+  margin: 20px;
+}
