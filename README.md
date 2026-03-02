@@ -1,16 +1,59 @@
-# React + Vite
+🌦️ Clima Agora — React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web em React que consome a OpenWeather API para exibir informações climáticas em tempo real a partir do nome de uma cidade.
 
-Currently, two official plugins are available:
+🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Busca de clima por cidade
 
-## React Compiler
+Ação via Enter ou botão
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Exibição de:
 
-## Expanding the ESLint configuration
+Temperatura
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Sensação térmica
+
+Umidade
+
+Condição do clima
+
+Vento
+
+Tratamento de erros da requisição
+
+🧠 Conceitos aplicados
+
+Componentização em React
+
+Estado com useState
+
+Props para comunicação entre componentes
+
+Consumo de API com fetch
+
+try/catch para controle de erros
+
+Eventos de teclado e clique
+
+Build e deploy com GitHub Pages
+
+🛠️ Tecnologias
+
+React
+
+JavaScript
+
+Vite
+
+CSS
+
+Git & GitHub
+
+🌍 Deploy
+
+👉 https://thaisduarteferreira.github.io/projeto-react-clima/
+
+🎯 Objetivo
+
+Projeto desenvolvido para praticar fundamentos de React e boas práticas de front-end, voltado para oportunidades júnior/estágio.
